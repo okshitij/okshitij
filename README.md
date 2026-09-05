@@ -1,18 +1,10 @@
-<h1>Hello World!! 👋 I am Kshitij</h1>
+<h1>Hello World!! 👋 I am Kshitij, a Full-Stack Developer</h1>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <!-- # 💫 About Me:  --> 
 <h3>About Me: </h3>
 I'm currently learning Java and Spring Frameworks
-
-<h3>Socials:</h3>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/kayyyraoo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kshitij-kalrao)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/@ukiyo8858)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kalraokshitij@gmail.com)
  
-
 <!-- # 💻 Tech Stack: -->
 <h3>Tech Stack: </h3>
 
