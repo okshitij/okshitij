@@ -3,7 +3,7 @@
 
 <!-- # 💫 About Me:  --> 
 <h3>About Me: </h3>
-I'm currently learning Java and Spring Frameworks
+👨🏻‍💻 I'm currently learning Java and Spring Frameworks
  
 <!-- # 💻 Tech Stack: -->
 <h3>Tech Stack: </h3>
@@ -16,3 +16,9 @@ I'm currently learning Java and Spring Frameworks
 ![](https://github-readme-stats.vercel.app/api?username=okshitij&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=okshitij&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=okshitij&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/okshitij/okshitij/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/okshitij/okshitij/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/okshitij/okshitij/blob/output/github-snake.svg" />
+</picture>
